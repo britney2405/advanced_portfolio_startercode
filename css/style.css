@@ -10,7 +10,9 @@
 
 
 /* About Section CSS */
-
+.carousel-inner img{
+    height:200px;
+}
 
 
 /* Portfolio Item CSS */
